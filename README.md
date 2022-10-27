@@ -21,6 +21,10 @@
 |Medistream|Chatting Application <br><sub>internship</sub></br>|Vue2, Sendbird, Filepond|[💬](https://github.com/rlaqhalx/vue-sendbird-ui)|
 |Delineo|Pandemic Modeling|JavaScript, CSS|[🦠](https://github.com/rlaqhalx/Delineo)|
 
+### My Repo
+|Project|Description|Tech Stack|Repo Link|
+|:---:|:---:|:---:|:---:|
+|Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
 <!--
 **rlaqhalx/rlaqhalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
