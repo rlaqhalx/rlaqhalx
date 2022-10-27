@@ -13,6 +13,13 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
+
+### My Projects
+|Project|Description|Tech Stack|Repo Link|
+|:---:|:---:|:---:|:---:|
+|Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
+|Note App|Hyper-focused Application for Note Taking| React, Mantine css | [📝](https://github.com/rlaqhalx/note-app.git)|
+
 ### Collaboration
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
@@ -20,12 +27,6 @@
 |Wescanner|Online Travel Agency Site <br><sub>inspired by official website of Skysanner</sub></br>|HTML, Styled-Component, Vue|[✈](https://github.com/rlaqhalx/34-2nd-Wescanner-frontend)|
 |Medistream|Chatting Application <br><sub>internship</sub></br>|Vue2, Sendbird, Filepond|[💬](https://github.com/rlaqhalx/vue-sendbird-ui)|
 |Delineo|Pandemic Modeling|JavaScript, CSS|[🦠](https://github.com/rlaqhalx/Delineo)|
-
-### My Projects
-|Project|Description|Tech Stack|Repo Link|
-|:---:|:---:|:---:|:---:|
-|Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
-|Note App|Hyper-focused Application for Note Taking| React, Mantine css | [📝](https://github.com/rlaqhalx/note-app.git)|
 
 <!--
 **rlaqhalx/rlaqhalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
