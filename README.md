@@ -25,6 +25,8 @@
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
 |Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
+|Note App|Hyper-focused Application for Note Taking| React, Mantine css | [📝](https://github.com/rlaqhalx/note-app.git)|
+
 <!--
 **rlaqhalx/rlaqhalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
