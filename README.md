@@ -15,6 +15,7 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Python] (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=heroku&logoColor=white)
 
 ### My Projects
 |Project|Description|Tech Stack|Repo Link|
