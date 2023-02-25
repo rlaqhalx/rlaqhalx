@@ -1,7 +1,7 @@
 ### Hi I'm Bomi Kim 👋
 
 - 👩🏻‍💻 Student studying Computer Science & Public Health
-- 💻 Interested in frontend development for web application
+- 💻 Interested in frontend development for web application & healthcare application 
 
 ### Tech Stak 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
