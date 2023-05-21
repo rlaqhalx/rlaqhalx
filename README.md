@@ -1,4 +1,4 @@
-### Hi I'm Iris Bomi Kim 👋
+### Hi I'm Bomi Kim 👋
 
 - 👩🏻‍💻 Student studying Computer Science & Public Health
 - 💻 Interested in frontend development for web application & healthcare application 
