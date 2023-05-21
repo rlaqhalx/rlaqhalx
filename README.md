@@ -1,4 +1,4 @@
-### Hi I'm Bomi Kim 👋
+### Hi I'm Iris Bomi Kim 👋
 
 - 👩🏻‍💻 Student studying Computer Science & Public Health
 - 💻 Interested in frontend development for web application & healthcare application 
@@ -38,6 +38,7 @@
 |Wescanner|Online Travel Agency Site <br><sub>inspired by official website of Skysanner</sub></br>|HTML, Styled-Component, Vue|[✈](https://github.com/rlaqhalx/34-2nd-Wescanner-frontend)|
 |Medistream|Chatting Application <br><sub>internship</sub></br>|Vue2, Sendbird, Filepond|[💬](https://github.com/rlaqhalx/vue-sendbird-ui)|
 |Delineo|Pandemic Modeling|JavaScript, CSS|[🦠](https://github.com/rlaqhalx/Delineo)|
+|CommUnity|Community Engagment Platform for Colleges|Next.js, Supabase, LLM chatbot|[🏫](https://github.com/rlaqhalx/community)|
 
 ### Study
 |Project|Description|Tech Stack|Repo Link|
