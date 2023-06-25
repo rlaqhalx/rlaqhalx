@@ -24,12 +24,10 @@
 ### My Projects
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
+|E-commerce Website|Platform for online schopping| React, Scss, Firebase, Redux, Hooks, GraphQL | [🛍️](https://github.com/rlaqhalx/e-com-platform.git)|
 |Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
 |Note App|Hyper-focused Application for Note Taking| React, Mantine css | [📝](https://github.com/rlaqhalx/note-app.git)|
 |Course Planner|Application for CS courses at JHU| React, Material UI | [📆](https://github.com/rlaqhalx/course-planner-jhu.git)|
-|URL Shortner|Link Shortener Tool| Express, MongoDB | [📎](https://github.com/rlaqhalx/url_shortner)|
-|E-commerce Website|Platform for online schopping| React, Scss, Firebase, Redux, Hooks, GraphQL | [🛍️](https://github.com/rlaqhalx/e-com-platform.git)|
-
 
 ### Collaboration
 |Project|Description|Tech Stack|Repo Link|
