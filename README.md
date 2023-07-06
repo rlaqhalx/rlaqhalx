@@ -42,6 +42,7 @@
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
 |Algorithm|Data Structure + Algorithm| &nbsp; Python &nbsp; |[💻](https://github.com/rlaqhalx/algorithm.git)|
+|Leetcode|Algorithm| &nbsp; Python &nbsp; |[💡](https://github.com/rlaqhalx/LeetCode)|
 
 <!--
 **rlaqhalx/rlaqhalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
