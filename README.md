@@ -1,7 +1,8 @@
 ### Hi I'm Bomi Kim 👋
 
-- 👩🏻‍💻 Student studying Computer Science & Public Health
-- 💻 Interested in frontend development for web application & healthcare application
+- 👩🏻‍💻 M.S. Data Science student
+- 🏫 Majored in Computer Science & Public Health 
+- 💻 Interested in Machine Learning 
 - 💭 Personal Website: https://bomikim.netlify.app/
 
 ### Tech Stak 
