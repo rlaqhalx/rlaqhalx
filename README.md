@@ -41,12 +41,12 @@
 |CommUnity|Community Engagment Platform for Colleges|Next.js, Supabase, LLM chatbot|[🏫](https://github.com/rlaqhalx/community)|
 
 ### Study
-|Project|Description|Tech Stack|Repo Link|
-|:---:|:---:|:---:|:---:|
-|Algorithm|Data Structure + Algorithm| &nbsp; Python &nbsp; |[💻](https://github.com/rlaqhalx/algorithm.git)|
-|Leetcode|Algorithm| &nbsp; Python &nbsp; |[💡](https://github.com/rlaqhalx/LeetCode)|
-|Data Science|Data Analysis| &nbsp; Python &nbsp; |[📊](https://github.com/rlaqhalx/data_science_study)|
-|Data Science|Machine Learning| &nbsp; Python &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
+|Project|Tech Stack|Repo Link|
+|:---:|:---:|:---:|
+|Data Structure + Algorithm| &nbsp; Python &nbsp; |[💻](https://github.com/rlaqhalx/algorithm.git)|
+|Leetcode| &nbsp; Python &nbsp; |[💡](https://github.com/rlaqhalx/LeetCode)|
+|Data Analysis| &nbsp; Python, Jupyter Notebook &nbsp; |[📊](https://github.com/rlaqhalx/data_science_study)|
+|Machine Learning| &nbsp; Python, Jupyter Notebook, Google Colab  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
 
 <!--
 **rlaqhalx/rlaqhalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
