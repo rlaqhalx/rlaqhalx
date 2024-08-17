@@ -45,7 +45,7 @@
 |Project|Tech Stack|Repo Link|
 |:---:|:---:|:---:|
 |Data Structure + Algorithm| &nbsp; Python &nbsp; |[💻](https://github.com/rlaqhalx/algorithm.git)|
-|Leetcode| &nbsp; Python &nbsp; |[💡](https://github.com/rlaqhalx/LeetCode)|
+|Leetcode| &nbsp; Python &nbsp; |[💡]()|
 |Data Analysis| &nbsp; Python, Jupyter Notebook &nbsp; |[📊](https://github.com/rlaqhalx/data_science_study)|
 |Machine Learning| &nbsp; Python, Jupyter Notebook, Google Colab  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
 
