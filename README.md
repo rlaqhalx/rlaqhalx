@@ -22,13 +22,16 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
-### My Projects
+### Data Science Projects
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
 |MedAbstractNet| PubMed Paper Abstracts Classifier |&nbsp; Python, Tensorflow &nbsp; |[📄](https://github.com/rlaqhalx/MedAbstractNet)|
 |Password Strength Analyzer| Markov Chains and n-grams with TF-IDF |&nbsp; Python, SQLite, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn &nbsp; |[🔒](https://github.com/rlaqhalx/Password_Strength_Analyzer)|
 |Machine Learning Projects| Supervised & Unsupervised Machine Learning Projects |&nbsp; Python, Tensorflow  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
+
+### Software Development Projects
+|Project|Description|Tech Stack|Repo Link|
+|:---:|:---:|:---:|:---:|
 |Mochi's|E-commerce Website| React, Scss, Firebase, Redux, Hooks, GraphQL | [🛍️](https://github.com/rlaqhalx/e-com-platform.git)|
 |Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
 |Note App|Hyper-focused Application for Note Taking| React, Mantine css | [📝](https://github.com/rlaqhalx/note-app.git)|
