@@ -27,7 +27,7 @@
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
 |MedAbstractNet| PubMed Paper Abstracts Classifier |&nbsp; Python, Tensorflow &nbsp; |[📄](https://github.com/rlaqhalx/MedAbstractNet)|
-|Password_Strength_Analyzer| Markov Chains and n-grams with TF-IDF |&nbsp; Python, SQLite, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn &nbsp; |[🔒](https://github.com/rlaqhalx/Password_Strength_Analyzer)|
+|Password Strength Analyzer| Markov Chains and n-grams with TF-IDF |&nbsp; Python, SQLite, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn &nbsp; |[🔒](https://github.com/rlaqhalx/Password_Strength_Analyzer)|
 |Machine Learning Projects| Supervised & Unsupervised Machine Learning Projects |&nbsp; Python, Tensorflow  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
 |Mochi's|E-commerce Website| React, Scss, Firebase, Redux, Hooks, GraphQL | [🛍️](https://github.com/rlaqhalx/e-com-platform.git)|
 |Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
