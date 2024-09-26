@@ -41,6 +41,7 @@
 |Delineo|Pandemic Modeling|JavaScript, CSS|[🦠](https://github.com/rlaqhalx/Delineo)|
 |CommUnity|Community Engagment Platform for Colleges|Next.js, Supabase, LLM chatbot|[🏫](https://github.com/rlaqhalx/community)|
 
+<!--
 ### Study
 |Project|Tech Stack|Repo Link|
 |:---:|:---:|:---:|
@@ -48,6 +49,7 @@
 |Leetcode| &nbsp; Python &nbsp; |[💡]()|
 |Data Analysis| &nbsp; Python, Jupyter Notebook &nbsp; |[📊](https://github.com/rlaqhalx/data_science_study)|
 |Machine Learning| &nbsp; Python, Jupyter Notebook, Google Colab  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
+-->
 
 <!--
 **rlaqhalx/rlaqhalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
