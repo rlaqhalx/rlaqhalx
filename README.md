@@ -3,7 +3,7 @@
 - 👩🏻‍💻 M.S. Data Science student
 - 🏫 Majored in Computer Science & Public Health 
 - 💻 Interested in Machine Learning 
-- 💭 Personal Website: https://bomikim.netlify.app/
+
 
 ### Tech Stak 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
