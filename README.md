@@ -40,8 +40,6 @@
 ### Collaboration
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
-|Weneige|Makeup Product Online Shopping Site <br><sub>inspired by official website of Laneige, Korean makeup brand</sub></br> |HTML, CSS, React|[💄](https://github.com/rlaqhalx/34-1st-Weneige-frontend)|
-|Wescanner|Online Travel Agency Site <br><sub>inspired by official website of Skysanner</sub></br>|HTML, Styled-Component, Vue|[✈](https://github.com/rlaqhalx/34-2nd-Wescanner-frontend)|
 |Medistream|Chatting Application <br><sub>internship</sub></br>|Vue2, Sendbird, Filepond|[💬](https://github.com/rlaqhalx/vue-sendbird-ui)|
 |Delineo|Pandemic Modeling|JavaScript, CSS|[🦠](https://github.com/rlaqhalx/Delineo)|
 |CommUnity|Community Engagment Platform for Colleges|Next.js, Supabase, LLM chatbot|[🏫](https://github.com/rlaqhalx/community)|
