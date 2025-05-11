@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 M.S. Data Science student
 - 🏫 Majored in Computer Science & Public Health 
-- 💻 Interested in Machine Learning 
+- 💻 Interested in Data Analytics 
 
 
 ### Tech Stak 
