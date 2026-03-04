@@ -1,10 +1,11 @@
 ### Hi I'm Bomi Kim 👋
 
-- 👩🏻‍💻 M.S. Data Science student
-- 🏫 Majored in Computer Science & Public Health 
+- 👩🏻‍💻 M.S. Data Science 
+- 🏫 Majored in Computer Science
 - 💻 Interested in Data Analytics 
 
 
+<!--
 ### Tech Stak 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-007ACC?&style=flat-square&logo=css3&logoColor=white)
@@ -21,6 +22,7 @@
 ![SupaBase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+-->
 
 ### Data Science Projects
 |Project|Description|Tech Stack|Repo Link|
@@ -37,12 +39,13 @@
 |Space Invader Game|Classic Arcade Game| &nbsp; Vanila Javascript &nbsp; |[🚀](https://github.com/rlaqhalx/space-invaders-game.git)|
 |Note App|Hyper-focused Application for Note Taking| React, Mantine css | [📝](https://github.com/rlaqhalx/note-app.git)|
 
+
 ### Collaboration
 |Project|Description|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|
-|Medistream|Chatting Application <br><sub>internship</sub></br>|Vue2, Sendbird, Filepond|[💬](https://github.com/rlaqhalx/vue-sendbird-ui)|
 |Delineo|Pandemic Modeling|JavaScript, CSS|[🦠](https://github.com/rlaqhalx/Delineo)|
 |CommUnity|Community Engagment Platform for Colleges|Next.js, Supabase, LLM chatbot|[🏫](https://github.com/rlaqhalx/community)|
+
 
 <!--
 ### Study
@@ -67,4 +70,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+|Medistream|Chatting Application <br><sub>internship</sub></br>|Vue2, Sendbird, Filepond|[💬](https://github.com/rlaqhalx/vue-sendbird-ui)|
 -->
