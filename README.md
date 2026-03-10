@@ -1,10 +1,3 @@
-### Hi I'm Bomi Kim 👋
-
-- 👩🏻‍💻 M.S. Data Science 
-- 🏫 Majored in Computer Science
-- 💻 Interested in Data Analytics 
-
-
 <!--
 ### Tech Stak 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
