@@ -24,6 +24,8 @@
 |Password Strength Analyzer| Markov Chains and n-grams with TF-IDF |&nbsp; Python, SQLite, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn &nbsp; |[🔒](https://github.com/rlaqhalx/Password_Strength_Analyzer)|
 |Customer_Churn_Predicton_Model| Tree-based Supervised Model |&nbsp; Python, Scikit-learn &nbsp; |[👩‍💻](https://github.com/rlaqhalx/Customer_Churn_Predicton_Model)|
 |Machine Learning Projects| Supervised & Unsupervised Machine Learning Projects |&nbsp; Python, Tensorflow  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
+|Machine Learning Note| Machine Learning Study |&nbsp; Python, Jupyter Notebook, Google Colab  &nbsp; |[📖](https://github.com/rlaqhalx/machine_learning_study)|
+|Personal Project| | |[‧₊˚✩ ₊˚]()|
 
 ### Software Development Projects
 |Project|Description|Tech Stack|Repo Link|
@@ -39,11 +41,6 @@
 |Delineo|Pandemic Modeling|JavaScript, CSS|[🦠](https://github.com/rlaqhalx/Delineo)|
 |CommUnity|Community Engagment Platform for Colleges|Next.js, Supabase, LLM chatbot|[🏫](https://github.com/rlaqhalx/community)|
 
-
-### Study
-|Project|Tech Stack|Repo Link|
-|:---:|:---:|:---:|
-|Machine Learning| &nbsp; Python, Jupyter Notebook, Google Colab  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
 
 <!--
 ### Study
