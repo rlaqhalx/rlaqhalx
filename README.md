@@ -40,6 +40,11 @@
 |CommUnity|Community Engagment Platform for Colleges|Next.js, Supabase, LLM chatbot|[🏫](https://github.com/rlaqhalx/community)|
 
 
+### Study
+|Project|Tech Stack|Repo Link|
+|:---:|:---:|:---:|
+|Machine Learning| &nbsp; Python, Jupyter Notebook, Google Colab  &nbsp; |[🧠](https://github.com/rlaqhalx/machine_learning_study)|
+
 <!--
 ### Study
 |Project|Tech Stack|Repo Link|
